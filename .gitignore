@@ -1,0 +1,7 @@
+# Rill
+*.db
+*.db.wal
+*.db.tmp
+stage.db.tmp/
+data/
+
