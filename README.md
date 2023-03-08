@@ -15,7 +15,7 @@ curl -s https://cdn.rilldata.com/install.sh | bash
 * Then clone this project and running it
 
 ```
-gh clone medriscoll/rilldemo-openrtb
+gh repo clone medriscoll/rilldemo-openrtb
 cd rilldemo-openrtb
 rill start
 ```
