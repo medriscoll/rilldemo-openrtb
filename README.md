@@ -12,7 +12,7 @@ rill version 0.22.3-snapshot (build commit: 857375b1 date: 2023-03-08T00:16:01Z)
 curl -s https://cdn.rilldata.com/install.sh | bash
 ```
 
-* Then clone this project and running it
+* Then clone this project and run it
 
 ```
 gh repo clone medriscoll/rilldemo-openrtb
