@@ -4,7 +4,7 @@ display_name: "Bids Sample Dash"
 model: "bids_data_model"
 timeseries: "__time"
 measures:
-  - label: Spend Overall
+  - label: Advertising Spend Overall
     expression: sum(media_spend_usd)/1000
     description: Total Spend
     format_preset: currency_usd
