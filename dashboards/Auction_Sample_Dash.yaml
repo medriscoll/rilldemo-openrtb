@@ -1,6 +1,6 @@
 # Visit https://docs.rilldata.com/references/project-files to learn more about Rill project files.
 
-display_name: "Auction Sample Dash"
+display_name: "Auction Sample Dashboard"
 model: "auction_data_model"
 timeseries: "__time"
 measures:
