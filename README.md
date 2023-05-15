@@ -15,7 +15,7 @@ curl -s https://cdn.rilldata.com/install.sh | bash
 * Then start Rill with this project's code
 
 ```
-rill start https://github.com/medriscoll/rilldemo-openrtb.git
+rill start https://github.com/rilldata/rilldemo-openrtb.git
 ```
 
 Rill will rehydrate the data sources and then launch in a new browser window. 
