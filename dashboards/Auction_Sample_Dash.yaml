@@ -68,3 +68,5 @@ dimensions:
   - label: App or Site
     property: app_or_site
     description: ""
+smallest_time_grain: "hour"
+default_time_range: "P1D"
