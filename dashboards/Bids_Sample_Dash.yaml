@@ -119,3 +119,5 @@ dimensions:
   - label: Video Activity
     property: video_activity
     description: ""
+smallest_time_grain: "hour"
+default_time_range: "P1D"
